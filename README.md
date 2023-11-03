@@ -39,7 +39,7 @@ inefficient and would run into problems if we had more objects but given only ra
 fireballs the algorithm runs fine. Uses AABB Intersection Tests to see if a collision
 actually happened.
 
-===========================================================
+___________________________________________________________
 
 *Fireballs kill Ravens
 	In the script, the first thing I do is the code that ravens dies after being
