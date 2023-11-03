@@ -1,10 +1,10 @@
 ___________________________________________________________
 Assignment 2 - ISTA 425
 ___________________________________________________________
-+	Daniel Shevelev					          
-+	Koan Zhang
-+	Lin Shao						          
-+	Francisco Figueroa				          
++	Daniel Shevelev	> Procedural Bg / Raven hitbox			          
++	Koan Zhang > Sweep & Prune
++	Lin Shao > Wizard hitbox						          
++	Francisco Figueroa > Infinite Parallax				          
 ___________________________________________________________
 
 
